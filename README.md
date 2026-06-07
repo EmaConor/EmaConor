@@ -70,8 +70,8 @@ Java · Spring · Nginx
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emaconor&show_icons=true&theme=transparent&hide_border=true&text_color=666&title_color=999&icon_color=999" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaconor&layout=compact&theme=transparent&hide_border=true&text_color=666&title_color=999" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaconor&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaconor&theme=default)
 </p>
 
 ---
