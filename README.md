@@ -18,8 +18,8 @@
 
 </div>
 
-Full-stack developer focused on building clean, maintainable solutions.
-Building logical, functional solutions. Open to collaborating and learning.
+Full-stack developer focused on building clean, maintainable solutions. <br/>
+Building logical, functional solutions. Open to collaborating and learning. <br/>
 Passionate about code, music, and video games.
 
 ⟡ Portfolio → **[emaconor.site](https://emaconor.site)**
