@@ -70,8 +70,8 @@ Java · Spring · Nginx
 </div>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaconor&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaconor&theme=default)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaconor&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaconor&theme=transparent" />
 </p>
 
 ---
