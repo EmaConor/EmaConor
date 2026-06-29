@@ -70,8 +70,8 @@ Java · Spring · Nginx
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaconor&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaconor&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmaConor&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmaConor&theme=transparent" />
 </p>
 
 ---
